@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension version="2.5.0" type="plugin" group="vmextended" method="upgrade" >
+    <name>nova_pochta_extended</name>
+    <creationDate>June 02 2014</creationDate>
+    <author>The VirtueMart Development Team</author>
+    <authorUrl>http://www.virtuemart.net</authorUrl>
+    <copyright>Copyright (C) 2004-2014 Virtuemart Team. All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <version>0.1.0</version>
+    <description>VM_NOVA_POCHTA_EXTENDED_DESC</description>
+    <files>
+        <filename plugin="nova_pochta_extended">nova_pochta_extended.php</filename>
+    </files>
+</extension>

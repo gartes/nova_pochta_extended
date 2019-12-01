@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cca38c67-9f33-4fb1-b4b1-69a79de046c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nova_pochta_extended.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nova_pochta_extended.php" beforeDir="false" afterPath="$PROJECT_DIR$/nova_pochta_extended.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +80,7 @@
       <workItem from="1575173386743" duration="1575000" />
       <workItem from="1575175001306" duration="148000" />
       <workItem from="1575175193827" duration="439000" />
+      <workItem from="1575176754467" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1575174423915</created>
@@ -116,6 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Start" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1941" y="351" width="800" height="677" key="#Deployment" timestamp="1575176793804">
+      <screen x="1368" y="137" width="1920" height="1080" />
+    </state>
+    <state x="1941" y="351" width="800" height="677" key="#Deployment/1368.137.1920.1080/0.164.1368.604@1368.137.1920.1080" timestamp="1575176793804" />
     <state x="1773" y="285" width="1137" height="808" key="CommitChangelistDialog2" timestamp="1575175285069">
       <screen x="1368" y="137" width="1920" height="1080" />
     </state>

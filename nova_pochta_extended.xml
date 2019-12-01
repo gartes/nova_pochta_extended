@@ -9,6 +9,8 @@
     <version>0.1.0</version>
     <description>VM_NOVA_POCHTA_EXTENDED_DESC</description>
     <files>
+        <folder>controllers</folder>
+        <folder>models</folder>
         <filename plugin="nova_pochta_extended">nova_pochta_extended.php</filename>
     </files>
 </extension>

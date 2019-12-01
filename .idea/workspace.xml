@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cca38c67-9f33-4fb1-b4b1-69a79de046c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nova_pochta_extended.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2c7a8f8f-2c6a-4d36-970d-790e7d72412e" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JoomlaConfiguration" enabled="true">
+    <joomlaConfigPath>$USER_HOME$/www/gartes-dev.ga/configuration.php</joomlaConfigPath>
+    <joomlaPath>$USER_HOME$/www/gartes-dev.ga</joomlaPath>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$USER_HOME$/www/gartes-dev.ga" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UMjVbewRh7WxKMtwEp5jDO4cxS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cca38c67-9f33-4fb1-b4b1-69a79de046c1" name="Default Changelist" comment="" />
+      <created>1575173382359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575173382359</updated>
+      <workItem from="1575173386743" duration="1575000" />
+      <workItem from="1575175001306" duration="148000" />
+      <workItem from="1575175193827" duration="439000" />
+    </task>
+    <task id="LOCAL-00001" summary="Start">
+      <created>1575174423915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575174423915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Start">
+      <created>1575174457258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575174457258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Start">
+      <created>1575175285225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575175285225</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1773" y="285" width="1137" height="808" key="CommitChangelistDialog2" timestamp="1575175285069">
+      <screen x="1368" y="137" width="1920" height="1080" />
+    </state>
+    <state x="1773" y="285" width="1137" height="808" key="CommitChangelistDialog2/1368.137.1920.1080/0.164.1368.604@1368.137.1920.1080" timestamp="1575175285069" />
+    <state x="2118" y="433" width="447" height="513" key="FileChooserDialogImpl" timestamp="1575175073561">
+      <screen x="1368" y="137" width="1920" height="1080" />
+    </state>
+    <state x="2118" y="433" width="447" height="513" key="FileChooserDialogImpl/1368.137.1920.1080/0.164.1368.604@1368.137.1920.1080" timestamp="1575175073561" />
+    <state x="2177" y="606" key="Github.Dialog.Accounts.Choose" timestamp="1575175302355">
+      <screen x="1368" y="137" width="1920" height="1080" />
+    </state>
+    <state x="2177" y="606" key="Github.Dialog.Accounts.Choose/1368.137.1920.1080/0.164.1368.604@1368.137.1920.1080" timestamp="1575175302355" />
+    <state x="2142" y="615" width="399" height="149" key="NewPhpFileDialog" timestamp="1575173867202">
+      <screen x="1368" y="137" width="1920" height="1080" />
+    </state>
+    <state x="2142" y="615" width="399" height="149" key="NewPhpFileDialog/1368.137.1920.1080/0.164.1368.604@1368.137.1920.1080" timestamp="1575173867202" />
+    <state x="1941" y="414" width="800" height="551" key="Vcs.Push.Dialog.v2" timestamp="1575175288226">
+      <screen x="1368" y="137" width="1920" height="1080" />
+    </state>
+    <state x="1941" y="414" width="800" height="551" key="Vcs.Push.Dialog.v2/1368.137.1920.1080/0.164.1368.604@1368.137.1920.1080" timestamp="1575175288226" />
+    <state x="1735" y="551" key="com.intellij.ide.util.TipDialog" timestamp="1575175310366">
+      <screen x="1368" y="137" width="1920" height="1080" />
+    </state>
+    <state x="1735" y="551" key="com.intellij.ide.util.TipDialog/1368.137.1920.1080/0.164.1368.604@1368.137.1920.1080" timestamp="1575175310366" />
+  </component>
+</project>

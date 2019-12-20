@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cca38c67-9f33-4fb1-b4b1-69a79de046c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nova_pochta_extended.php" beforeDir="false" afterPath="$PROJECT_DIR$/nova_pochta_extended.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -81,6 +85,7 @@
       <workItem from="1575175001306" duration="148000" />
       <workItem from="1575175193827" duration="439000" />
       <workItem from="1575176754467" duration="374000" />
+      <workItem from="1576842681309" duration="495000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1575174423915</created>
@@ -114,10 +119,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Start" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1941" y="351" width="800" height="677" key="#Deployment" timestamp="1575176793804">
+    <state x="1941" y="351" width="800" height="677" key="#Deployment" timestamp="1576843084453">
       <screen x="1368" y="137" width="1920" height="1080" />
     </state>
-    <state x="1941" y="351" width="800" height="677" key="#Deployment/1368.137.1920.1080/0.164.1368.604@1368.137.1920.1080" timestamp="1575176793804" />
+    <state x="1941" y="351" width="800" height="677" key="#Deployment/1368.137.1920.1080/0.164.1368.604@1368.137.1920.1080" timestamp="1576843084453" />
     <state x="1773" y="285" width="1137" height="808" key="CommitChangelistDialog2" timestamp="1575175285069">
       <screen x="1368" y="137" width="1920" height="1080" />
     </state>
